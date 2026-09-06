@@ -76,7 +76,7 @@
       .map(function (f) {
         const aids = (f.medicalAidsExample || [])
           .map(function (a) {
-            return '<span class="aid-chip">' + a + " (example)</span>";
+            return '<span class="aid-chip">' + a + " (DEMO / unverified example)</span>";
           })
           .join("");
         return (
@@ -85,7 +85,7 @@
           "<h3>" +
           f.name +
           "</h3>" +
-          '<span class="demo-tag">DEMO</span>' +
+          '<span class="demo-tag">DEMO / unverified</span>' +
           "</div>" +
           '<p class="meta"><strong>' +
           f.city +
@@ -126,7 +126,7 @@
     })
     .then(function (data) {
       facilities = (data.facilities || []).filter(function (f) {
-        return f.demo === true;
+        return f.demo === true; // all seed rows DEMO/unverified until Build verifies
       });
       renderFacilities();
     })

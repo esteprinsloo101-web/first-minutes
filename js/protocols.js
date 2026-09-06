@@ -1,4 +1,4 @@
-/* General public first-aid education only — not medical advice. Urge EMS. */
+/* General first-aid wait tips only — not medical advice. Does not diagnose, treat, prescribe, or triage. Urge 112. */
 window.FM_PROTOCOLS = {
   bleeding: {
     title: "Bleeding (external)",
@@ -57,7 +57,7 @@ window.FM_PROTOCOLS = {
       "Stay calm. Note the time symptoms started.",
       "If they become unresponsive and not breathing normally, start CPR if trained."
     ],
-    note: "Chest pain can be a heart attack or other emergency. First Minutes does not diagnose. Call 112."
+    note: "Chest pain can be a heart attack or other emergency. First Minutes does not diagnose, treat, or triage. Call 112 now."
   },
   fainting: {
     title: "Fainting / near-faint",

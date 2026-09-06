@@ -1,31 +1,27 @@
 # First Minutes — Disclaimer (required)
 
-**First Minutes is not a doctor, not EMS, and not a hospital finder of record.**
+## Gumroad / pack one-liner
 
-This pack and the companion web app are **general public first-aid education** only. They do **not** replace trained first aiders, paramedics, nurses, doctors, or emergency services.
+General first-aid wait tips and checklists only. Not a doctor, not a nurse, not an emergency service, and not medical advice. In an emergency call 112 (or your local ambulance / emergency number) immediately — do not wait on this app or pack. Facility and medical-aid lists may be incomplete, demo, or out of date until verified. First Minutes / the seller is not a clinic, ambulance, or medical scheme.
 
-## Emergency
+## Fuller fence
 
-In an emergency call **112** (or your local ambulance / EMS) **immediately**.  
-First Minutes does **not** dispatch help and does **not** provide live medical advice.
+**Disclaimer:** First Minutes provides general educational information and wait-time helpers for adults preparing for, or waiting for, professional help. It does not diagnose, treat, prescribe, or triage. It is not a substitute for a registered healthcare professional, ambulance service, poison centre, or hospital.
 
-## Protocols
+**Emergency:** If someone is seriously injured, unconscious, having trouble breathing, bleeding heavily, having a stroke/heart-attack symptoms, or you are unsure — stop using this product and call **112** (or local emergency services / ambulance) right away. Do not delay calling while reading tips or searching facilities.
 
-Situation checklists (bleeding, burns, choking adult, chest pain, fainting, sprain, and any printable wait cards) are **general education**. Always urge professional care. Techniques for infants/children differ — this pack is an **adult tool** and is not paediatric care guidance.
+**Facilities & medical aid:** Any clinic, hospital, pharmacy, or medical-aid references marked **DEMO** or **unverified** are for layout/demo only and must not be relied on for care decisions. Verified lists can still change; always confirm hours, cover, and directions yourself. Medical-aid benefits and network hospitals change — check your scheme documents.
 
-## Facilities & medical aids
+**No outcomes guaranteed.** You use these materials at your own risk. The seller accepts no liability for injury, delay, or loss arising from use of this product.
 
-Any facility hours, addresses, phones, or medical-aid acceptance lists (Discovery, Bonitas, Momentum, KeyHealth, or others) included as examples are **DEMO / example data** until independently verified.  
-They must be labeled **DEMO**. Do **not** treat them as live truth. Confirm with the facility and your medical scheme.
+**POPIA:** Minimise personal/health notes stored in the app; keep them private.
 
-## Audience
+**Age:** Not for unsupervised under-18 use for emergency decisions — a responsible adult should act. Adult tool; no child accounts.
 
-- **Adults 18+ only**
-- No child accounts
-- Do not collect child data
+## Hard no’s
 
-## No clinical claims
-
-We do not invent diagnoses, treatment plans, guaranteed outcomes, or “official” facility directories.
+We do **not** claim: doctor, nurse, paramedic, diagnoses, treats, emergency dispatch, guaranteed ambulance ETA, “covers your medical aid,” HPCSA-registered, replaces first-aid certification, or that DEMO/unverified facility data is live.
 
 By using this pack you acknowledge the above.
+
+*Legal draft fence locked from `/ops/legal/first-minutes-disclaimer.md` (2026-09-06). Not a licensed attorney or medical opinion.*

@@ -12,8 +12,7 @@
 <body>
   <div class="emergency-bar" role="alert">
     <p>
-      <strong>Emergency:</strong> Call <strong>112</strong> (or your local ambulance/EMS) now.
-      First Minutes does <strong>not</strong> replace trained first aiders or emergency services.
+      <strong>Emergency — call 112 first.</strong> If seriously injured, unconscious, trouble breathing, heavy bleeding, stroke/heart-attack symptoms, or unsure: call <strong>112</strong> (or local ambulance) <em>immediately</em>. Do not delay while reading tips or searching facilities. First Minutes is <strong>not</strong> a doctor, nurse, EMS, or medical advice.
     </p>
     <a class="btn-call" href="tel:112">Call 112</a>
   </div>
@@ -25,17 +24,20 @@
       <p class="tagline">What to do while waiting for medics — clear steps, who to call, and DEMO nearby facilities. Faceless. South Africa–aware. Sellable pack available.</p>
       <div class="badge-row">
         <span class="badge">Adults 18+</span>
-        <span class="badge">Not a doctor</span>
-        <span class="badge">Not EMS</span>
-        <span class="badge">Call 112 in emergency</span>
+        <span class="badge">Not a doctor / nurse</span>
+        <span class="badge">No triage / diagnosis</span>
+        <span class="badge">Call 112 first</span>
       </div>
     </header>
 
-    <aside class="disclaimer-box" role="note">
-      <strong>Hard safety:</strong> First Minutes is <em>not</em> a doctor, not EMS, and not a hospital finder of record.
-      Protocols are <strong>general public first-aid education</strong> only — always urge professional care.
-      Facility hours and medical-aid acceptance below are <strong>DEMO / example data</strong> until verified.
-      Adult tool only — no child accounts. We do not collect child data.
+    <aside class="disclaimer-box" role="note" id="legal-fence">
+      <strong>Disclaimer:</strong> First Minutes provides general educational information and wait-time helpers for adults preparing for, or waiting for, professional help. It does <em>not</em> diagnose, treat, prescribe, or triage. It is not a substitute for a registered healthcare professional, ambulance service, poison centre, or hospital.
+      <br><br>
+      <strong>Emergency:</strong> If someone is seriously injured, unconscious, having trouble breathing, bleeding heavily, having a stroke/heart-attack symptoms, or you are unsure — stop using this product and call <strong>112</strong> (or local emergency services / ambulance) right away. Do not delay calling while reading tips or searching facilities.
+      <br><br>
+      <strong>Facilities &amp; medical aid:</strong> Any clinic, hospital, pharmacy, or medical-aid references marked <strong>DEMO</strong> or <strong>unverified</strong> are for layout/demo only and must not be relied on for care decisions. Always confirm hours, cover, and directions yourself. Check your scheme documents.
+      <br><br>
+      No outcomes guaranteed. You use these materials at your own risk. POPIA: minimise personal/health notes; keep them private. Age: not for unsupervised under-18 emergency decisions — a responsible adult should act. Adult tool; no child accounts.
     </aside>
 
     <nav class="modules" aria-label="Sections">
@@ -115,8 +117,8 @@
       <section class="card" id="facilities">
         <h2>Nearby facilities (DEMO)</h2>
         <div class="demo-banner" role="note">
-          <strong>DEMO data clearly labeled.</strong> Hours and medical-aid acceptance (Discovery, Bonitas, Momentum, KeyHealth) are <em>examples</em> for Johannesburg and Cape Town seed rows.
-          Every row has <code>demo: true</code>. Confirm with the facility and your scheme before you rely on this. First Minutes is not a hospital finder of record.
+          <strong>DEMO / unverified</strong> — for layout and demo only. Hours and medical-aid acceptance (Discovery, Bonitas, Momentum, KeyHealth as <em>examples</em>) must <strong>not</strong> be relied on for care decisions.
+          Every row is <code>demo: true</code> + <code>unverified: true</code> until Build marks it verified. Confirm with the facility and your scheme. First Minutes is not a clinic, ambulance, medical scheme, or hospital finder of record.
         </div>
         <div class="filters" role="group" aria-label="Filter by city">
           <button type="button" class="active" data-city-filter="all">All DEMO</button>
@@ -128,7 +130,7 @@
 
       <section class="card cta-box" id="pack">
         <h2>Get the pack</h2>
-        <p class="lead">Printable first-aid wait cards, full disclaimer, and listing-ready files for home / office / car. Free demo app · paid pack.</p>
+        <p class="lead">Printable first-aid wait tips and checklists (general education only — does not diagnose, treat, prescribe, or triage). Free demo app · paid pack.</p>
         <p class="price">R129</p>
         <a class="btn-cta" href="https://gumroad.com" target="_blank" rel="noopener noreferrer">Get the pack → Gumroad</a>
         <p class="cta-note">Placeholder link — replace with live Gumroad URL after publish. See GUMROAD_LISTING.md</p>
@@ -138,8 +140,9 @@
 
   <footer>
     <p><strong>First Minutes</strong> — faceless South African wait-for-medics helper.</p>
-    <p>Not a doctor · Not EMS · Not a hospital finder of record · Adults 18+</p>
-    <p>In emergency call <strong>112</strong>. © First Minutes</p>
+    <p>Not a doctor · Not a nurse · Not EMS · Does not diagnose, treat, prescribe, or triage · DEMO/unverified facilities until verified · Adults 18+</p>
+    <p>In emergency call <strong>112</strong> immediately — do not wait on this app. © First Minutes</p>
+    <p style="max-width:40rem;margin:0.75rem auto;font-size:0.75rem;">General first-aid wait tips and checklists only. Not medical advice. Facility and medical-aid lists may be incomplete, demo, or out of date until verified. First Minutes / the seller is not a clinic, ambulance, or medical scheme.</p>
   </footer>
 
   <script src="js/protocols.js"></script>

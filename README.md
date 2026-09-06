@@ -4,13 +4,17 @@ Faceless South African **first-aid / wait-for-medics** helper you can sell.
 
 **Model:** Free demo static web app + paid printable pack (**R129** on Gumroad).
 
-## Hard safety
+## Hard safety (legal fence locked)
 
-- **Not** a doctor, **not** EMS, **not** a hospital finder of record.
-- In emergency call **112** (or local ambulance/EMS). App does not replace trained first aiders or emergency services.
-- Protocols = general public first-aid education — urge professional care.
-- Facility hours + medical-aid acceptance = **DEMO/example** until verified (`demo: true` on every row). Never invent as live truth.
-- Adult tool (18+); no child accounts.
+Source: `/ops/legal/first-minutes-disclaimer.md`
+
+- **Not** a doctor, nurse, EMS, or medical advice. Does **not** diagnose, treat, prescribe, or triage.
+- **112-first** emergency bar on open; do not delay calling while reading tips or searching facilities.
+- Protocols = general first-aid wait tips / education only — urge professional care.
+- Facility hours + medical-aid acceptance = **DEMO / unverified** until Build marks verified (`demo: true` + `unverified: true`). Never invent as live truth.
+- Gumroad one-liner baked into `GUMROAD_LISTING.md` + `pack/DISCLAIMER.md`.
+- Adult tool (18+); no child accounts; not for unsupervised under-18 emergency decisions.
+- Price: **R129**.
 
 ## Free demo app
 
