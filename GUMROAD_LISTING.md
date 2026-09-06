@@ -1,42 +1,85 @@
-# Gumroad listing — First Minutes
+Status: HOLD — publish AFTER Gumroad daily create-limit reset (queue with AGM / Little Angels / Steady Kit)  
+Channel: Gumroad  
+Brand: **First Minutes** (own faceless first-aid wait brand — NOT Plain Desk)  
+CTA: YOUR_GUMROAD_URL  
+Price: **R129**  
+Pack zip: `/workspace/first-minutes/FirstMinutes_First_Aid_Wait_Pack.zip`  
+Legal: `/workspace/ops/legal/first-minutes-disclaimer.md`  
+QA: adversarial PASS · rounds 3 · 2026-09-06 · by Quill (Legal one-liner baked; pack DISCLAIMER synced to Legal; 112/DEMO gates)  
+Traffic: Stokvel remains primary X CTA on @PlainDesk123  
 
-> **Status:** Ready to publish. Soft CTA on free demo points here (placeholder until live URL).  
-> **Legal fence:** `/ops/legal/first-minutes-disclaimer.md` (locked).
+---
+
+# PASTE-READY — Gumroad product
 
 ## Title
-`First Minutes SA | First Aid Wait Pack (Call 112)`
+```
+First Minutes SA | First Aid Wait Pack (Call 112)
+```
+
+## Subtitle
+```
+Printable wait-for-medics cards · bleeding burns choking · call 112 first · not medical advice · R129
+```
 
 ## Price
-**R129** (ZAR)
+**R129**
 
-## One-liner (fence — bake into listing page)
-> General first-aid wait tips and checklists only. Not a doctor, not a nurse, not an emergency service, and not medical advice. In an emergency call 112 (or your local ambulance / emergency number) immediately — do not wait on this app or pack. Facility and medical-aid lists may be incomplete, demo, or out of date until verified. First Minutes / the seller is not a clinic, ambulance, or medical scheme.
+## Gumroad short field / Legal fence (near top + footer)
+```
+General first-aid wait tips and checklists only. Not a doctor, not a nurse, not an emergency service, and not medical advice. In an emergency call 112 (or your local ambulance / emergency number) immediately — do not wait on this app or pack. Facility and medical-aid lists may be incomplete, demo, or out of date until verified. First Minutes / the seller is not a clinic, ambulance, or medical scheme.
+```
 
-## Short description
-First Minutes is a faceless South African wait-for-medics pack: printable first-aid wait cards (bleeding, burns, choking adult, chest pain → call 112 now, fainting, sprain), hard disclaimer, and companion free static web demo with who-to-call + DEMO/unverified JHB/CPT facilities board. Free demo app · paid pack **R129**. Does not diagnose, treat, prescribe, or triage.
+## Description (paste)
+```
+General first-aid wait tips and checklists only. Not a doctor, not a nurse, not an emergency service, and not medical advice. In an emergency call 112 (or your local ambulance / emergency number) immediately — do not wait on this app or pack. Facility and medical-aid lists may be incomplete, demo, or out of date until verified. First Minutes / the seller is not a clinic, ambulance, or medical scheme.
 
-## What’s included
-- DISCLAIMER.md (hard safety fence + Gumroad one-liner)
-- README
-- 6 printable HTML wait cards (print → PDF/paper)
-- cards/README.md
+First Minutes is a faceless South African wait-for-medics pack: printable first-aid wait cards (bleeding, burns, choking adult, chest pain → call 112 now, fainting, sprain), hard disclaimer, and a companion free static web demo with who-to-call + DEMO/unverified facilities board. Free demo app · paid pack R129. Does not diagnose, treat, prescribe, or triage.
 
-## File to upload
-`FirstMinutes_First_Aid_Wait_Pack.zip`
+What’s included
+• DISCLAIMER.md (hard safety fence)
+• 6 printable HTML wait cards (print → PDF/paper)
+• cards/README.md + pack README
 
-## Tags / discovery
-first aid, South Africa, emergency, 112, wait for medics, printable cards, adults, home safety
+Who it’s for
+Adults who want calm wait-for-medics checklists while professional help is on the way.
 
-## CTA button text
-Get the pack
+Who it’s not for
+Not a doctor, nurse, paramedic, ambulance, or medical scheme. Not paediatric emergency care. Not live facility truth.
 
-## Product type
-Digital download
+Brand: First Minutes — faceless. R129 · instant download.
+```
 
-## Notes for publisher
-- Paste the **one-liner** above on the sales page (required).
-- Persistent 112 / disclaimer language must stay on any sales page.
-- Placeholder Gumroad link on web CTA — replace with live product URL after publish.
-- Do **not** claim medical advice, triage, diagnosis, EMS dispatch, live facility truth, HPCSA registration, or paediatric care.
-- Medical aid names (Discovery, Bonitas, Momentum, KeyHealth) appear only as **DEMO/unverified examples**.
-- Price: **R129**.
+## Bullets
+- 6 printable wait cards (bleeding, burns, choking adult, chest pain, fainting, sprain)
+- Call 112 first — not a substitute for emergency services
+- DEMO/unverified facility lists labelled until verified
+- Instant download · R129 · First Minutes
+- Not medical advice · not triage · not diagnosis
+
+## SEO tags / keywords
+```
+first aid, South Africa, emergency, 112, wait for medics, printable cards, adults, home safety, first minutes, bleeding burns choking
+```
+
+## FAQ (paste)
+
+**Q: Is this medical advice?**  
+A: No. General first-aid wait tips and checklists only. Not a doctor, nurse, or emergency service.
+
+**Q: What should I do in an emergency?**  
+A: Call 112 (or your local ambulance / emergency number) immediately — do not wait on this pack or app.
+
+**Q: Are hospital / medical-aid lists live?**  
+A: Anything marked DEMO or unverified is for layout only and must not be relied on. Always confirm yourself.
+
+**Q: Does this replace first-aid training?**  
+A: No.
+
+## After publish checklist
+- [ ] Upload FirstMinutes_First_Aid_Wait_Pack.zip
+- [ ] Set **R129** · paste Legal one-liner near top
+- [ ] Publish after Gumroad create-limit reset
+- [ ] Replace web CTA with live URL
+- [ ] Soft shop only — Stokvel primary X CTA
+- [ ] Ping Growth + Money with live URL
