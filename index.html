@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en-ZA">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="First Minutes — South African first-aid wait helper while medics are on the way. Not a doctor. Not EMS. Call 112 in an emergency.">
+  <meta name="robots" content="index,follow">
+  <title>First Minutes | Wait-for-medics first-aid helper (SA)</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Ccircle fill='%230d7377' cx='32' cy='32' r='30'/%3E%3Ctext x='32' y='41' text-anchor='middle' fill='white' font-size='18' font-family='sans-serif' font-weight='700'%3EFM%3C/text%3E%3C/svg%3E">
+</head>
+<body>
+  <div class="emergency-bar" role="alert">
+    <p>
+      <strong>Emergency:</strong> Call <strong>112</strong> (or your local ambulance/EMS) now.
+      First Minutes does <strong>not</strong> replace trained first aiders or emergency services.
+    </p>
+    <a class="btn-call" href="tel:112">Call 112</a>
+  </div>
+
+  <div class="wrap">
+    <header class="site-header">
+      <div class="logo-mark" aria-hidden="true">FM</div>
+      <h1>First Minutes</h1>
+      <p class="tagline">What to do while waiting for medics — clear steps, who to call, and DEMO nearby facilities. Faceless. South Africa–aware. Sellable pack available.</p>
+      <div class="badge-row">
+        <span class="badge">Adults 18+</span>
+        <span class="badge">Not a doctor</span>
+        <span class="badge">Not EMS</span>
+        <span class="badge">Call 112 in emergency</span>
+      </div>
+    </header>
+
+    <aside class="disclaimer-box" role="note">
+      <strong>Hard safety:</strong> First Minutes is <em>not</em> a doctor, not EMS, and not a hospital finder of record.
+      Protocols are <strong>general public first-aid education</strong> only — always urge professional care.
+      Facility hours and medical-aid acceptance below are <strong>DEMO / example data</strong> until verified.
+      Adult tool only — no child accounts. We do not collect child data.
+    </aside>
+
+    <nav class="modules" aria-label="Sections">
+      <a href="#situations">Situations</a>
+      <a href="#call">Who to call</a>
+      <a href="#facilities">Facilities (DEMO)</a>
+      <a href="#pack">Get the pack</a>
+    </nav>
+
+    <main>
+      <section class="card" id="situations">
+        <h2>Situation cards</h2>
+        <p class="lead">Tap a situation for a step checklist while you wait for help. Check off what you can. If in doubt, call <strong>112</strong>.</p>
+        <div class="situation-grid" id="situation-grid">
+          <button type="button" class="sit-card" data-sit="bleeding">
+            <span class="icon" aria-hidden="true">🩸</span>
+            <span class="label">Bleeding</span>
+            <span class="hint">Direct pressure</span>
+          </button>
+          <button type="button" class="sit-card" data-sit="burns">
+            <span class="icon" aria-hidden="true">🔥</span>
+            <span class="label">Burns</span>
+            <span class="hint">Cool 20 min</span>
+          </button>
+          <button type="button" class="sit-card" data-sit="choking">
+            <span class="icon" aria-hidden="true">😮</span>
+            <span class="label">Choking (adult)</span>
+            <span class="hint">Back blows / thrusts</span>
+          </button>
+          <button type="button" class="sit-card call-now" data-sit="chest">
+            <span class="icon" aria-hidden="true">❤️</span>
+            <span class="label">Chest pain</span>
+            <span class="hint">CALL 112 NOW</span>
+          </button>
+          <button type="button" class="sit-card" data-sit="fainting">
+            <span class="icon" aria-hidden="true">💫</span>
+            <span class="label">Fainting</span>
+            <span class="hint">Lie down / legs up</span>
+          </button>
+          <button type="button" class="sit-card" data-sit="sprain">
+            <span class="icon" aria-hidden="true">🦵</span>
+            <span class="label">Sprain</span>
+            <span class="hint">Rest · ice · elevate</span>
+          </button>
+        </div>
+        <div class="protocol" id="protocol-panel" aria-live="polite"></div>
+      </section>
+
+      <section class="card" id="call">
+        <h2>Who to call</h2>
+        <p class="lead">Verified public numbers where we can cite them. When unsure, use official pages.</p>
+        <div class="call-list">
+          <div class="call-item">
+            <div>
+              <h3>Emergency — 112</h3>
+              <p>National emergency number (mobile). Ask for ambulance / EMS. Also use local ambulance numbers you know.</p>
+            </div>
+            <a class="btn-call-sm" href="tel:112">Call 112</a>
+          </div>
+          <div class="call-item">
+            <div>
+              <h3>Poisons Information Helpline — 0861 555 777</h3>
+              <p>24h national poisons helpline (Red Cross War Memorial Children’s Hospital &amp; Tygerberg Poisons Information Centres). Cite: UCT / Stellenbosch public pages.</p>
+            </div>
+            <a class="btn-call-sm" href="tel:0861555777">Call 0861 555 777</a>
+          </div>
+          <div class="call-item">
+            <div>
+              <h3>More helplines</h3>
+              <p>Mental health, gender-based violence, and other support — use Find A Helpline for current local numbers.</p>
+            </div>
+            <a class="btn-link" href="https://findahelpline.com" target="_blank" rel="noopener noreferrer">findahelpline.com</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="card" id="facilities">
+        <h2>Nearby facilities (DEMO)</h2>
+        <div class="demo-banner" role="note">
+          <strong>DEMO data clearly labeled.</strong> Hours and medical-aid acceptance (Discovery, Bonitas, Momentum, KeyHealth) are <em>examples</em> for Johannesburg and Cape Town seed rows.
+          Every row has <code>demo: true</code>. Confirm with the facility and your scheme before you rely on this. First Minutes is not a hospital finder of record.
+        </div>
+        <div class="filters" role="group" aria-label="Filter by city">
+          <button type="button" class="active" data-city-filter="all">All DEMO</button>
+          <button type="button" data-city-filter="Johannesburg">Johannesburg</button>
+          <button type="button" data-city-filter="Cape Town">Cape Town</button>
+        </div>
+        <div id="facilities-list"></div>
+      </section>
+
+      <section class="card cta-box" id="pack">
+        <h2>Get the pack</h2>
+        <p class="lead">Printable first-aid wait cards, full disclaimer, and listing-ready files for home / office / car. Free demo app · paid pack.</p>
+        <p class="price">R129</p>
+        <a class="btn-cta" href="https://gumroad.com" target="_blank" rel="noopener noreferrer">Get the pack → Gumroad</a>
+        <p class="cta-note">Placeholder link — replace with live Gumroad URL after publish. See GUMROAD_LISTING.md</p>
+      </section>
+    </main>
+  </div>
+
+  <footer>
+    <p><strong>First Minutes</strong> — faceless South African wait-for-medics helper.</p>
+    <p>Not a doctor · Not EMS · Not a hospital finder of record · Adults 18+</p>
+    <p>In emergency call <strong>112</strong>. © First Minutes</p>
+  </footer>
+
+  <script src="js/protocols.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

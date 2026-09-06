@@ -1,0 +1,94 @@
+{
+  "disclaimer": "DEMO / EXAMPLE ONLY. Hours and medical-aid acceptance are illustrative until independently verified. First Minutes is not a hospital finder of record. Always confirm with the facility and your medical aid before relying on this information. In an emergency call 112.",
+  "updated": "2026-09-06",
+  "facilities": [
+    {
+      "id": "jhb-demo-1",
+      "demo": true,
+      "name": "Demo City Clinic — Sandton",
+      "city": "Johannesburg",
+      "type": "Clinic",
+      "address": "Example Road, Sandton (DEMO address)",
+      "hours": "Mon–Fri 08:00–17:00; Sat 08:00–13:00 (DEMO)",
+      "phone": "011 000 0000 (DEMO)",
+      "medicalAidsExample": ["Discovery", "Bonitas", "Momentum"]
+    },
+    {
+      "id": "jhb-demo-2",
+      "demo": true,
+      "name": "Demo Netcare-style Hospital — Parktown",
+      "city": "Johannesburg",
+      "type": "Hospital",
+      "address": "Example Ave, Parktown (DEMO address)",
+      "hours": "Emergency 24h (DEMO — confirm live)",
+      "phone": "011 000 0001 (DEMO)",
+      "medicalAidsExample": ["Discovery", "Bonitas", "Momentum", "KeyHealth"]
+    },
+    {
+      "id": "jhb-demo-3",
+      "demo": true,
+      "name": "Demo Community Health Centre — Soweto",
+      "city": "Johannesburg",
+      "type": "Clinic",
+      "address": "Example Street, Soweto (DEMO address)",
+      "hours": "Mon–Fri 07:30–16:00 (DEMO)",
+      "phone": "011 000 0002 (DEMO)",
+      "medicalAidsExample": ["Bonitas", "KeyHealth"]
+    },
+    {
+      "id": "jhb-demo-4",
+      "demo": true,
+      "name": "Demo GP Rooms — Rosebank",
+      "city": "Johannesburg",
+      "type": "Doctor",
+      "address": "Example Centre, Rosebank (DEMO address)",
+      "hours": "Mon–Fri 08:00–16:30 (DEMO)",
+      "phone": "011 000 0003 (DEMO)",
+      "medicalAidsExample": ["Discovery", "Momentum"]
+    },
+    {
+      "id": "cpt-demo-1",
+      "demo": true,
+      "name": "Demo Day Clinic — Sea Point",
+      "city": "Cape Town",
+      "type": "Clinic",
+      "address": "Example Blvd, Sea Point (DEMO address)",
+      "hours": "Mon–Fri 08:00–17:00; Sat 09:00–12:00 (DEMO)",
+      "phone": "021 000 0000 (DEMO)",
+      "medicalAidsExample": ["Discovery", "Bonitas", "KeyHealth"]
+    },
+    {
+      "id": "cpt-demo-2",
+      "demo": true,
+      "name": "Demo Private Hospital — Claremont",
+      "city": "Cape Town",
+      "type": "Hospital",
+      "address": "Example Drive, Claremont (DEMO address)",
+      "hours": "Emergency 24h (DEMO — confirm live)",
+      "phone": "021 000 0001 (DEMO)",
+      "medicalAidsExample": ["Discovery", "Bonitas", "Momentum", "KeyHealth"]
+    },
+    {
+      "id": "cpt-demo-3",
+      "demo": true,
+      "name": "Demo Community Clinic — Khayelitsha",
+      "city": "Cape Town",
+      "type": "Clinic",
+      "address": "Example Way, Khayelitsha (DEMO address)",
+      "hours": "Mon–Fri 07:30–16:00 (DEMO)",
+      "phone": "021 000 0002 (DEMO)",
+      "medicalAidsExample": ["Bonitas", "Momentum"]
+    },
+    {
+      "id": "cpt-demo-4",
+      "demo": true,
+      "name": "Demo Family Practice — Gardens",
+      "city": "Cape Town",
+      "type": "Doctor",
+      "address": "Example Street, Gardens (DEMO address)",
+      "hours": "Mon–Thu 08:00–17:00; Fri 08:00–14:00 (DEMO)",
+      "phone": "021 000 0003 (DEMO)",
+      "medicalAidsExample": ["Discovery", "KeyHealth"]
+    }
+  ]
+}
