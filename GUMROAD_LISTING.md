@@ -3,6 +3,7 @@ Channel: Gumroad
 Brand: **First Minutes** (own faceless first-aid wait brand — NOT Plain Desk)  
 CTA: YOUR_GUMROAD_URL  
 Price: **R129**  
+Web demo (free): https://esteprinsloo101-web.github.io/first-minutes/  
 Pack zip: `/workspace/first-minutes/FirstMinutes_First_Aid_Wait_Pack.zip`  
 Legal: `/workspace/ops/legal/first-minutes-disclaimer.md`  
 QA: adversarial PASS · rounds 3 · 2026-09-06 · by Quill (Legal one-liner baked; pack DISCLAIMER synced to Legal; 112/DEMO gates)  
